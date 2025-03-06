@@ -18,6 +18,6 @@
 #### Filters
 * Customizable filters for analyzing data by item type, outlet type, location type, and discount impact.
 #### PowerBi Dashboard Output
-![Power Bi Dashboard](Dashboard.png)
+![Power Bi Dashboard]
 #### Purpose
 This dashboard provides a comprehensive analysis of sales performance, outlet efficiency, and customer behavior. It empowers businesses to make data-driven decisions, optimize inventory, improve marketing strategies, and enhance customer engagement for sustained revenue growth.
